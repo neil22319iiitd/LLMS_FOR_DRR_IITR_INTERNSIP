@@ -152,11 +152,15 @@ ensuring accurate labeling.
 
 
 7_quality_scores
+
 ![image](https://github.com/user-attachments/assets/8f7cfb75-6363-4f8f-aa61-ba7482fffc6b)
 
 
+
 8_plot
-![image](https://github.com/user-attachments/assets/478e9337-8ac2-4be8-a680-301ed68cfac1)
+
+![image](https://github.com/user-attachments/assets/5dd35aff-350a-41b5-9cab-2131c6b7bdef)
+
 
 
 
